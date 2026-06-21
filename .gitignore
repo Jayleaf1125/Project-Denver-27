@@ -101,8 +101,10 @@ InitTestScene*.unity*
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
+# Aspen stuff
 projectDenver/.idea/*
 aspenTools/python/.idea/*
+Library
 
 
 # Auto-generated scenes by play mode tests
